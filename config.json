@@ -1,0 +1,20 @@
+{
+	"slack": {
+		"token": "<your-slack-token-here>"
+	},
+	"flask": {
+		"ip_address": "0.0.0.0",
+		"port": 5000
+	},
+	"mappings": [ 
+		{
+			"group_id": "<groupme chat id>",
+			"bot_id": "<groupme bot id>",
+			"channel_id": "<slack channel id>"
+		}, {
+			"group_id": "<groupme chat id>",
+			"bot_id": "<groupme bot id>",
+			"channel_id": "<slack channel id>"
+		}
+	]
+}
