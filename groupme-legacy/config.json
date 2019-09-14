@@ -1,0 +1,16 @@
+{
+	"flask": {
+		"ip_address": "0.0.0.0",
+		"port": 5000
+	},
+	"mappings": [ 
+		{
+			"group_id": "XXXXXXXX",
+			"bot_id": "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}, {
+			"group_id": "XXXXXXXX",
+			"bot_id": "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}
+	],
+	"message": "This is the message that will appear when a user posts to the GroupMe"
+}
